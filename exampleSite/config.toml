@@ -32,14 +32,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
 
 [[menu.main]]
-    url = "/"
-    name = "Inicio"
-    weight = 1
-    title = "Inicio"
-
-[[menu.main]]
     url = "/quienes-somos/"
-    name = "Quienes Somos"
+    name = "Nosotros"
     weight = 2
 
 [[menu.main]]
