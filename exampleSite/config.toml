@@ -10,7 +10,7 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Osprey Example Site"
+    tagline = "Frase descriptiva de su empresa."
     author = "Toma Nistor"
     description = "Frase descriptiva de su empresa."
     logoBig = "/image/logo.png"
